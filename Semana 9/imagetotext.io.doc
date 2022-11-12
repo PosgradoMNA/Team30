@@ -1,0 +1,190 @@
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CLOROF_A ClorofilaA mg/m3
+COLI_LFEC Coliformes Fecales NMP/100 mL
+COLI_TOT |Coliformes Totales NMP/100 mL
+E_COLI Escherichia coli NMP/100 mL
+COT Carbono Organico Total
+
+COT_SOL Carbono Organico Soluble
+
+DBO_SOL DBO soluble
+
+DBO_TOT DBO total
+
+DaO_SOL DQO soluble
+
+DQO_TOT DQO total
+
+N_NH3 Nitr6geno Amoniacal
+
+N_NO2 Nitré6geno de Nitritos
+
+N_NO3 Nitré6geno de Nitratos
+
+N_ORG Nitr6geno Organico
+
+N_TOT Nitré6geno Total (Calculo)
+
+N_TOTK Nitr6geno Kjeldahl
+
+ 
+
+TOX_D_48_UT
+
+Toxicidad Daphnia magna, 48h
+
+ 
+
+TOX_D_48_FON_UT
+
+Toxicidad Daphnia magna, Fondo, 48 h
+
+ 
+
+TOX_D_48_SUP_UT
+
+Toxicidad Daphnia magna, Superficial, 48 h
+
+ 
+
+TOX_FIS_FON_15_UT
+TOX_FIS_SUP_15_UT
+
+Toxicidad Vibrio fischeri Fondo, 15min
+Toxicidad Vibrio fischeri Superficial, 15min
+
+ 
+
+TOX_V_15_UT
+
+Toxicidad Vibrio fischeri 15min UT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+P_TOT Fésforo Total
+
+ORTO_PO4 Foésforo Reactivo total (o-fosfatos)
+
+COLOR_VER Color Verdadero U PUCo
+TRANSPARENCIA Transparencia disco de Secchi
+
+ABS_UV Absorcién UV UAbs/icm
+SDT S6lidos Disueltos Totales (Calculo)
+
+ 
+
+CONDUC_CAMPO
+
+Conductividad eléctrica
+
+ 
+
+CONDUC_CAMPO_FON
+
+|Conductividad eléctrica fondo
+
+ 
+
+CONDUC_CAMPO_MED
+
+Conductividad eléctrica media
+
+ 
+
+CONDUC_CAMPO_SUP
+
+Conductividad eléctrica superficie
+
+ 
+
+pH_CAMPO
+
+Potencial de Hidrégeno
+
+ 
+
+pH_CAMPO_FON
+
+Potencial de Hidrégeno fondo
+
+ 
+
+pH_CAMPO_MED
+
+Potencial de Hidrégeno media
+
+ 
+
+pH_CAMPO_SUP
+
+ 
+
+Potencial de Hidrégeno superficie
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OD_% Oxigeno Disuelto_% % Saturacién
+OD_mg/L Oxigeno Disuelto mg/L
+OD_%_FON Oxigeno Disuelto fondo_% % Saturacion
+
+ 
+
+ 
+
