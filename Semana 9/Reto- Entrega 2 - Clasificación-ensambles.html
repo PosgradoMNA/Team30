@@ -15728,6 +15728,12 @@ Adicionalmente, realizaremos la partición de los datos de manera estratificada,
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Vemos que las variables tienen un desbalanceo, pero es muy ligero como para que valga la pena realizar metodos de under/over sampling. Con este ligero desbalanceo los modelos deberían ser capaces de lograr un buen grado de precisión. Esto, dado que solo se recomienda aplicar estas técnicas cuando existen desbalanceos severos.</p>
+
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h2 id="Feature-Imporance">Feature Imporance<a class="anchor-link" href="#Feature-Imporance">&#182;</a></h2>
 </div>
 </div>
@@ -16341,34 +16347,20 @@ weighted avg       0.97      0.97      0.97       211
 <p>En la matriz de confusion, tambièn podemos observar que el modelo mantiene su nivel de desempeño en el data set de prueba, mostrando muy buenos resultados.</p>
 
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-     <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span> 
-</pre></div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h2 id="Conclusiones">Conclusiones<a class="anchor-link" href="#Conclusiones">&#182;</a></h2>
+</div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<ul>
+<li>Se logró obtener un modelo que es capaz de predecir con un alto grado de precisión el semáforo que tendrá uan fuente subterránea, con base en las mediciones numéricas de las sustancias químicas y biológicas que posee cada fuente.</li>
+<li>Tal como se esperaba, no fue necesario realizar un balanceo para lograr un buen desempeño de los modelos, dado que el desbalanceo era muy débil.</li>
+</ul>
 
-     </div>
 </div>
-</div>
-</div>
-
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-     <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span> 
-</pre></div>
-
-     </div>
-</div>
-</div>
-</div>
-
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
